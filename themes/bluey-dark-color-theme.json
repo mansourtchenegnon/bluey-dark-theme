@@ -157,7 +157,18 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#79C0FF"
+				"foreground": "#90d4f3"
+			}
+		},
+		{
+			"name": "Functions",
+			"scope": [
+				"entity.name.function",
+				"support.function"
+			],
+			"settings": {
+				// "fontStyle": "italic",
+				"foreground": "#F07178"
 			}
 		},
 		{
